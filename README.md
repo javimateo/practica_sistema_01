@@ -1,1 +1,1 @@
-# practicaGrupalGit
+# practica_sistema_01
